@@ -1,13 +1,7 @@
 {
-  "name": "johnpbloch/wordpress",
-  "description": "WordPress is web software you can use to create a beautiful website or blog.",
-  "keywords": [
-    "wordpress",
-    "blog",
-    "cms"
-  ],
+  "name": "mkuhles/morganroete_blog",
+  "description": "Morganroetes WordPress.",
   "type": "package",
-  "homepage": "http://wordpress.org/",
   "license": "GPL-2.0+",
   "authors": [
     {
