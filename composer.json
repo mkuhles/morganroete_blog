@@ -19,6 +19,13 @@
   "require": {
     "php": ">=5.3.2",
     "johnpbloch/wordpress-core-installer": "^1.0",
-    "johnpbloch/wordpress-core": "dev-master"
+    "johnpbloch/wordpress-core": "dev-master",
+    "mkuhles/morganroete_blog_theme": "dev-master"
+  },
+  "repositories": {
+    "mkuhles_morganroete_blog_theme": {
+      "type": "git",
+      "url": "git@github.com:mkuhles/morganroete_blog_theme.git"
+    }
   }
 }
